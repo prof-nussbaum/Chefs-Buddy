@@ -3,7 +3,7 @@ Agentic AI Assistant for the Modern Chef
 
 We had a great time at out "Chef's Buddy" AI seminar at the Richmond, VA campus of ECPI University back in February of 2025. 
 At the seminar, non-engineers (Culinary Students) saw how a first version of the "Chef's Buddy" AI Agent works.
-The culinary students also got a change to play around with popular free online LLM's.
+The culinary students also got a chance to play around with popular free online LLM's.
 
 Alongside the culinary students were Technology students (studying electronics engineering technology and other subjects).
 The technology students had to gather further requirements by listening carefully to the ideas of the culinary students.
