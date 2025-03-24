@@ -1,6 +1,10 @@
 # Chefs-Buddy
 Agentic AI Assistant for the Modern Chef
 
+Version 16 (Culv16.py) picks a popular recipe from the selected geographical region (goes through the 50 states of the USA). After that, it generates the recipe, as well as the costing of the top ingredients (by price). The LLM then generates a description of an elegant presentation, including plating instructions and other food items that are often served alongside this dish. Finally, a Diffusion model creates an image of the recipe from the LLM generated description. This repeats forever until stopped - thereby creating a vibrant slideshow of food photos, including state, recipe name, and ingredient costs.
+
+Background
+
 We had a great time at out "Chef's Buddy" AI seminar at the Richmond, VA campus of ECPI University back in February of 2025. 
 At the seminar, non-engineers (Culinary Students) saw how a first version of the "Chef's Buddy" AI Agent works.
 The culinary students also got a chance to play around with popular free online LLM's.
